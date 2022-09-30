@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B028098728E6EB090066E526 /* UIColorEXt.swift in Sources */ = {isa = PBXBuildFile; fileRef = B028098628E6EB090066E526 /* UIColorEXt.swift */; };
 		B0BD6E8428E6D3930035858A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BD6E8328E6D3930035858A /* AppDelegate.swift */; };
 		B0BD6E8628E6D3930035858A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BD6E8528E6D3930035858A /* SceneDelegate.swift */; };
 		B0BD6E8B28E6D3930035858A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0BD6E8928E6D3930035858A /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B028098628E6EB090066E526 /* UIColorEXt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorEXt.swift; sourceTree = "<group>"; };
 		B0BD6E8028E6D3930035858A /* Colours App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Colours App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0BD6E8328E6D3930035858A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0BD6E8528E6D3930035858A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				B0BD6E8328E6D3930035858A /* AppDelegate.swift */,
 				B0BD6E8528E6D3930035858A /* SceneDelegate.swift */,
 				B0BD6E9728E6D3F10035858A /* ColoursTableVC.swift */,
+				B028098628E6EB090066E526 /* UIColorEXt.swift */,
 				B0BD6E9928E6D4180035858A /* ColourDetailVC.swift */,
 				B0BD6E8928E6D3930035858A /* Main.storyboard */,
 				B0BD6E8C28E6D39C0035858A /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 				B0BD6E8428E6D3930035858A /* AppDelegate.swift in Sources */,
 				B0BD6E9828E6D3F10035858A /* ColoursTableVC.swift in Sources */,
 				B0BD6E8628E6D3930035858A /* SceneDelegate.swift in Sources */,
+				B028098728E6EB090066E526 /* UIColorEXt.swift in Sources */,
 				B0BD6E9A28E6D4180035858A /* ColourDetailVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
